@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Furkan.Furkan_BlogProject.DTO/1.0.0": {
+        "dependencies": {
+          "Furkan.Furkan_BlogProject.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Furkan.Furkan_BlogProject.DTO.dll": {}
+        }
+      },
+      "Furkan.Furkan_BlogProject.Entities/1.0.0": {
+        "runtime": {
+          "Furkan.Furkan_BlogProject.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Furkan.Furkan_BlogProject.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Furkan.Furkan_BlogProject.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

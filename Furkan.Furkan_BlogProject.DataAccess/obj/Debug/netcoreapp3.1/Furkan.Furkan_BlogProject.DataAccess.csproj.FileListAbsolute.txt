@@ -1,0 +1,15 @@
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.DataAccess\bin\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.Entities.dll
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.DataAccess\obj\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.DataAccess.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.DataAccess\obj\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.DataAccess\obj\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.DataAccess.AssemblyInfo.cs
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.DataAccess\bin\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.DataAccess.deps.json
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.DataAccess\bin\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.DataAccess.runtimeconfig.json
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.DataAccess\bin\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.DataAccess.runtimeconfig.dev.json
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.DataAccess\bin\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.DataAccess.dll
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.DataAccess\bin\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.DataAccess.pdb
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.DataAccess\bin\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.Entities.pdb
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.DataAccess\obj\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.DataAccess\obj\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.DataAccess.csproj.CopyComplete
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.DataAccess\obj\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.DataAccess.dll
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.DataAccess\obj\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.DataAccess.pdb
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.DataAccess\obj\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.DataAccess.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Furkan.Furkan_BlogProject.DataAccess\Furkan.Furkan_BlogProject.DataAccess.csproj" />
+    <ProjectReference Include="..\Furkan.Furkan_BlogProject.DTO\Furkan.Furkan_BlogProject.DTO.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="9.3.0" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="9.3.0" />
+  </ItemGroup>
+
+</Project>

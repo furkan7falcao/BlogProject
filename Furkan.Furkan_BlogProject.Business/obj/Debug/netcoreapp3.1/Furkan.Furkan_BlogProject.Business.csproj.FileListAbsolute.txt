@@ -1,0 +1,16 @@
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Business\bin\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.Business.deps.json
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Business\bin\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.Business.dll
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Business\bin\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.Business.pdb
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Business\bin\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.DataAccess.dll
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Business\bin\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.Entities.dll
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Business\bin\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.DataAccess.pdb
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Business\bin\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.Entities.pdb
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Business\obj\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.Business.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Business\obj\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.Business.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Business\obj\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.Business.AssemblyInfo.cs
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Business\obj\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Business\obj\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.Business.csproj.CopyComplete
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Business\obj\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.Business.dll
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Business\obj\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.Business.pdb
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Business\bin\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.DTO.dll
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Business\bin\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.DTO.pdb

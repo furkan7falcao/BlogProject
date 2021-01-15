@@ -1,0 +1,9 @@
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Entities\bin\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.Entities.deps.json
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Entities\bin\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.Entities.dll
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Entities\bin\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.Entities.pdb
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Entities\obj\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.Entities.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Entities\obj\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.Entities.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Entities\obj\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.Entities.AssemblyInfo.cs
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Entities\obj\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Entities\obj\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.Entities.dll
+C:\Users\furka\source\repos\Furkan_BlogProject\Furkan.Furkan_BlogProject.Entities\obj\Debug\netcoreapp3.1\Furkan.Furkan_BlogProject.Entities.pdb
